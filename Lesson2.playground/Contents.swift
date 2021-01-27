@@ -9,6 +9,7 @@ if myNumber > 4 {
 }
 
 
+
 if myNumber < 4 && myNumber < 0 {
     print("The first condition is true")
 } else if myNumber < 8 {
